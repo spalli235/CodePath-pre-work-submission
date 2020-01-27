@@ -16,6 +16,8 @@ Sorry I saved the gif locally to my computer and am not sure how to link it here
 
 <img src="https://i.imgur.com/PAxvZWW.gifv" width=200><br>
 
+![](https://i.imgur.com/PAxvZWW.gifv)
+
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
