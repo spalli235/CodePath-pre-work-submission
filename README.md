@@ -8,10 +8,11 @@ Pre-work submission of Android app: sets custom label &amp; background color, ta
 Hours Spent: 6
 
 ### App Walk-though
+Sorry I saved the gif locally to my computer and am not sure how to link it here. But I uploaded it to the repository.
+
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="file:///C:/Users/Supriya/Desktop/AppDemo.gif" width=200><br>
-
 
 ![](file:///C:/Users/Supriya/Desktop/AppDemo.gif)
 
