@@ -5,6 +5,8 @@
 
 ### App Description
 Pre-work submission of Android app: sets custom label &amp; background color, tap a button to change color of label
+
+
 Hours Spent: 6
 
 ### App Walk-though
